@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Sales Data Analytics & EDA Dashboard",
+  "description": "Interactive exploratory data analysis and analytics dashboard for the Kaggle Amazon Sales Dataset featuring multi-dimensional visualizers, price & discount analysis, rating distributions, category insights, product comparison, and AI dataset assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
